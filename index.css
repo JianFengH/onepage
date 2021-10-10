@@ -1,0 +1,17 @@
+.main-section {
+    background-color: #00529c;
+}
+.footer-icon{
+    font-size: 25px;
+    color: #00529c;
+}
+
+.ani-box{
+    overflow: hidden;
+}
+.ani-zoom{
+    transition: all .5s ease-in-out;
+}
+.ani-zoom:hover{
+    transform: scale(1.2);
+}
