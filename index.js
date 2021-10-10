@@ -28,7 +28,7 @@ function renderOccupiedParking() {
             scales: {
                 y: {
                     suggestedMin: 0,
-                    suggestedMax: 4500,
+                    suggestedMax: 5000,
                     // title: {
                     //     display: true,
                     //     text: "Total",
